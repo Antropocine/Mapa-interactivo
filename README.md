@@ -191,61 +191,61 @@
                 lat: 40.4168, lng: -3.7038, 
                 fecha: "1492",
                 titulo: "La globalización del mundo", 
-                descripcion: "Año de la 'reconquista' de la Península ibérica y la formación del primer Estado-nación. Marca el inicio de la época colonial en América e inserta al continente a la dinámica del sistema europeo. Tras la conquista, España se convierte en la primera gran potencia del emergente sistema de Estados nacionales[cite: 1]."
+                descripcion: "Año de la 'reconquista' de la Península ibérica y la formación del primer Estado-nación. Marca el inicio de la época colonial en América e inserta al continente a la dinámica del sistema europeo. Tras la conquista, España se convierte en la primera gran potencia del emergente sistema de Estados nacionales ."
             },
             {
                 lat: 51.9606, lng: 7.6261, 
                 fecha: "1648",
                 titulo: "La Paz de Westfalia", 
-                descripcion: "Termina con la Guerra de los Treinta Años y sienta las bases para el surgimiento de los conceptos de soberanía y Estado soberano. La 'razón de Estado' se vuelve el principio rector de la diplomacia europea, emergiendo Francia, Austria y las Provincias Unidas (Holanda) como nuevas potencias[cite: 1]."
+                descripcion: "Termina con la Guerra de los Treinta Años y sienta las bases para el surgimiento de los conceptos de soberanía y Estado soberano. La 'razón de Estado' se vuelve el principio rector de la diplomacia europea, emergiendo Francia, Austria y las Provincias Unidas (Holanda) como nuevas potencias ."
             },
             {
                 lat: 51.5074, lng: -0.1278, 
                 fecha: "1756 - 1763",
                 titulo: "La guerra de los Siete años", 
-                descripcion: "Conflicto dirigido por los intereses mercantilistas británicos para destruir a Francia. Con la Paz de París, Gran Bretaña se consolida como la potencia imperial y comercial más importante del planeta al adquirir Canadá y expandir sus mercados hacia Oriente en la India y las islas del Caribe[cite: 1]."
+                descripcion: "Conflicto dirigido por los intereses mercantilistas británicos para destruir a Francia. Con la Paz de París, Gran Bretaña se consolida como la potencia imperial y comercial más importante del planeta al adquirir Canadá y expandir sus mercados hacia Oriente en la India y las islas del Caribe ."
             },
             {
                 lat: 4.5709, lng: -74.2973, 
                 fecha: "1776 - 1838",
                 titulo: "La independencia de las Américas", 
-                descripcion: "El proceso de descolonización marca un parteaguas. Comenzó con las Trece colonias en 1776 y las posesiones españolas en 1810. Para 1838, existían 18 Estados independientes en el continente. Ante esto, Europa deja de ser el único actor del sistema internacional[cite: 1]."
+                descripcion: "El proceso de descolonización marca un parteaguas. Comenzó con las Trece colonias en 1776 y las posesiones españolas en 1810. Para 1838, existían 18 Estados independientes en el continente. Ante esto, Europa deja de ser el único actor del sistema internacional ."
             },
             {
                 lat: 48.2082, lng: 16.3738, 
                 fecha: "1815",
                 titulo: "El Congreso de Viena", 
-                descripcion: "Tras derrotar a la Francia napoleónica, los artífices del Acta final buscaron el equilibrio del poder en Europa. Se evitó la humillación de Francia y el continente experimentó el 'concierto europeo', un periodo de relativa paz de casi 40 años sin guerras entre las grandes potencias[cite: 1]."
+                descripcion: "Tras derrotar a la Francia napoleónica, los artífices del Acta final buscaron el equilibrio del poder en Europa. Se evitó la humillación de Francia y el continente experimentó el 'concierto europeo', un periodo de relativa paz de casi 40 años sin guerras entre las grandes potencias ."
             },
             {
                 lat: 48.8566, lng: 2.3522, 
                 fecha: "1919",
                 titulo: "El Tratado de París", 
-                descripcion: "Recomposición trascendental tras la Primera Guerra Mundial. Aplicó selectivamente el principio de la 'autodeterminación nacional' para reconstruir fronteras. Marcó el colapso de los imperios Austro-Húngaro y Otomano, y Gran Bretaña cedió el liderazgo económico a Estados Unidos[cite: 1]."
+                descripcion: "Recomposición trascendental tras la Primera Guerra Mundial. Aplicó selectivamente el principio de la 'autodeterminación nacional' para reconstruir fronteras. Marcó el colapso de los imperios Austro-Húngaro y Otomano, y Gran Bretaña cedió el liderazgo económico a Estados Unidos ."
             },
             {
                 lat: 44.2597, lng: -71.5034, 
                 fecha: "1944",
                 titulo: "Acuerdos de Bretton Woods", 
-                descripcion: "Reunión de 44 representantes para crear un nuevo orden monetario internacional capaz de prevenir un colapso económico. De aquí surgieron el Fondo Monetario Internacional y el Banco Mundial, para otorgar préstamos y promover el desarrollo[cite: 1]."
+                descripcion: "Reunión de 44 representantes para crear un nuevo orden monetario internacional capaz de prevenir un colapso económico. De aquí surgieron el Fondo Monetario Internacional y el Banco Mundial, para otorgar préstamos y promover el desarrollo ."
             },
             {
                 lat: 55.7558, lng: 37.6173, 
                 fecha: "1945 - 1989",
                 titulo: "La Guerra Fría y la Descolonización", 
-                descripcion: "Emergen Estados Unidos y la Unión Soviética como superpotencias. El mundo se dividió en tres grandes bloques (occidentales, comunistas y no-alineados). Al mismo tiempo, más de 60 nuevos países nacieron en Asia y África, enfrentando guerras internas por fronteras artificiales[cite: 1]."
+                descripcion: "Emergen Estados Unidos y la Unión Soviética como superpotencias. El mundo se dividió en tres grandes bloques (occidentales, comunistas y no-alineados). Al mismo tiempo, más de 60 nuevos países nacieron en Asia y África, enfrentando guerras internas por fronteras artificiales ."
             },
             {
                 lat: 52.5162, lng: 13.3777, 
                 fecha: "9 de noviembre de 1989",
                 titulo: "La Caída del Muro de Berlín", 
-                descripcion: "El fin de la confrontación ideológica bipolar. Contrario a quienes predecían 'el fin de la historia', el colapso soviético evidenció que emergían dos manifestaciones antagónicas de la modernidad para redibujar el mapa: la integración y la fragmentación[cite: 1]."
+                descripcion: "El fin de la confrontación ideológica bipolar. Contrario a quienes predecían 'el fin de la historia', el colapso soviético evidenció que emergían dos manifestaciones antagónicas de la modernidad para redibujar el mapa: la integración y la fragmentación ."
             },
             {
                 lat: 50.8503, lng: 4.3517, 
                 fecha: "Actualidad",
                 titulo: "Integración vs. Fragmentación", 
-                descripcion: "Europa es el claro ejemplo: por un lado, una fuerte integración económica (Unión Europea); por el otro, cruentas fragmentaciones nacionalistas (Croacia, Bosnia, Kosovo). El mundo sigue transformándose debido a fuerzas políticas, económicas, religiosas y culturales complejas[cite: 1]."
+                descripcion: "Europa es el claro ejemplo: por un lado, una fuerte integración económica (Unión Europea); por el otro, cruentas fragmentaciones nacionalistas (Croacia, Bosnia, Kosovo). El mundo sigue transformándose debido a fuerzas políticas, económicas, religiosas y culturales complejas ."
             }
         ];
 
@@ -276,52 +276,52 @@
         // Trivia
         const preguntasTrivia = [
             {
-                pregunta: "1. Según el texto, ¿qué año marca la inserción de América a la dinámica política europea y consolida a España como gran potencia?[cite: 1]",
+                pregunta: "1. Según el texto, ¿qué año marca la inserción de América a la dinámica política europea y consolida a España como gran potencia? ",
                 opciones: ["1492", "1648", "1776"],
                 respuestaCorrecta: 0
             },
             {
-                pregunta: "2. ¿Qué tratado terminó con la Guerra de los Treinta Años y sentó las bases de la soberanía y el Estado soberano?[cite: 1]",
+                pregunta: "2. ¿Qué tratado terminó con la Guerra de los Treinta Años y sentó las bases de la soberanía y el Estado soberano? ",
                 opciones: ["El Tratado de París", "La Paz de Westfalia", "El Congreso de Viena"],
                 respuestaCorrecta: 1
             },
             {
-                pregunta: "3. Tras la Guerra de los Siete años (1756-1763), ¿qué país se consolidó como la potencia imperial y comercial más importante del planeta?[cite: 1]",
+                pregunta: "3. Tras la Guerra de los Siete años (1756-1763), ¿qué país se consolidó como la potencia imperial y comercial más importante del planeta? ",
                 opciones: ["Francia", "España", "Gran Bretaña"],
                 respuestaCorrecta: 2
             },
             {
-                pregunta: "4. ¿Qué suceso provocó que Europa dejara de ser el único actor del sistema internacional en los siglos XVIII y XIX?[cite: 1]",
+                pregunta: "4. ¿Qué suceso provocó que Europa dejara de ser el único actor del sistema internacional en los siglos XVIII y XIX? ",
                 opciones: ["La Revolución Francesa", "La independencia de las Américas", "La creación de la ONU"],
                 respuestaCorrecta: 1
             },
             {
-                pregunta: "5. ¿Cuál fue el objetivo principal del Congreso de Viena en 1815?[cite: 1]",
+                pregunta: "5. ¿Cuál fue el objetivo principal del Congreso de Viena en 1815? ",
                 opciones: ["Establecer el libre comercio mundial", "Humillar a Francia tras las guerras", "Buscar el equilibrio del poder en Europa"],
                 respuestaCorrecta: 2
             },
             {
-                pregunta: "6. ¿Qué principio se aplicó selectivamente en el Tratado de París (1919) para reconstruir las fronteras tras la Primera Guerra Mundial?[cite: 1]",
+                pregunta: "6. ¿Qué principio se aplicó selectivamente en el Tratado de París (1919) para reconstruir las fronteras tras la Primera Guerra Mundial? ",
                 opciones: ["El equilibrio del poder", "La autodeterminación nacional", "La destrucción mutua asegurada"],
                 respuestaCorrecta: 1
             },
             {
-                pregunta: "7. ¿Qué instituciones nacieron en los acuerdos de Bretton Woods para prevenir colapsos económicos?[cite: 1]",
+                pregunta: "7. ¿Qué instituciones nacieron en los acuerdos de Bretton Woods para prevenir colapsos económicos? ",
                 opciones: ["La OTAN y el Pacto de Varsovia", "El Fondo Monetario Internacional y el Banco Mundial", "La Unión Europea y el Euro"],
                 respuestaCorrecta: 1
             },
             {
-                pregunta: "8. Durante la Guerra Fría, el mapa internacional se dividió principalmente en tres bloques: occidentales, comunistas y...[cite: 1]",
+                pregunta: "8. Durante la Guerra Fría, el mapa internacional se dividió principalmente en tres bloques: occidentales, comunistas y... ",
                 opciones: ["Asiáticos", "No-alineados", "Imperialistas"],
                 respuestaCorrecta: 1
             },
             {
-                pregunta: "9. ¿Qué dos fuerzas antagónicas de la modernidad se hicieron más evidentes tras la caída del Muro de Berlín?[cite: 1]",
+                pregunta: "9. ¿Qué dos fuerzas antagónicas de la modernidad se hicieron más evidentes tras la caída del Muro de Berlín? ",
                 opciones: ["Capitalismo y Comunismo", "Norte y Sur", "Integración y fragmentación"],
                 respuestaCorrecta: 2
             },
             {
-                pregunta: "10. Según los autores, ¿por qué es difícil describir el mapa político actual?[cite: 1]",
+                pregunta: "10. Según los autores, ¿por qué es difícil describir el mapa político actual? ",
                 opciones: ["Porque es el reflejo de tendencias complejas, contradictorias y de constante cambio", "Porque solo depende de los bloques comerciales", "Porque las fronteras ya no existen"],
                 respuestaCorrecta: 0
             }
