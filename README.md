@@ -219,7 +219,7 @@
                 descripcion: "Reunión de 44 representantes para crear un nuevo orden monetario internacional capaz de prevenir un colapso económico. De aquí surgieron el Fondo Monetario Internacional y el Banco Mundial, para otorgar préstamos y promover el desarrollo."
             },
             {
-                lat: 52.5200, lng: 13.4050, 
+                lat: 55.7558, lng: 37.6173,, 
                 fecha: "1945 - 1989",
                 titulo: "La Guerra Fría y la Descolonización", 
                 descripcion: "Emergen Estados Unidos y la Unión Soviética como superpotencias. El mundo se dividió en tres grandes bloques (occidentales, comunistas y no-alineados). Al mismo tiempo, más de 60 nuevos países nacieron en Asia y África, enfrentando guerras internas por fronteras artificiales."
