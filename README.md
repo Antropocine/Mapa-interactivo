@@ -372,29 +372,4 @@
             `;
         });
 
-        // Función para calificar
-        function calificarTrivia() {
-            let puntaje = 0;
-            preguntasTrivia.forEach((item, index) => {
-                const opcionesSeleccionadas = document.querySelector(`input[name="pregunta${index}"]:checked`);
-                if (opcionesSeleccionadas && parseInt(opcionesSeleccionadas.value) === item.respuestaCorrecta) {
-                    puntaje++;
-                }
-            });
 
-            const resultadoDiv = document.getElementById('resultado-trivia');
-            if (puntaje === 10) {
-                resultadoDiv.innerHTML = `¡Puntaje perfecto! ${puntaje} de 10. Tu comprensión del mapa histórico es impecable. 🏆`;
-                resultadoDiv.style.color = "#27ae60";
-            } else if (puntaje >= 6) {
-                resultadoDiv.innerHTML = `¡Buen trabajo! Obtuviste ${puntaje} de 10. Vas por muy buen camino. 👍`;
-                resultadoDiv.style.color = "#f39c12";
-            } else {
-                resultadoDiv.innerHTML = `Obtuviste ${puntaje} de 10. Te sugiero repasar los puntos del mapa interactivo y volver a intentarlo. 📚`;
-                resultadoDiv.style.color = "#c0392b";
-            }
-        }
-    </script>
-
-</body>
-</html>
