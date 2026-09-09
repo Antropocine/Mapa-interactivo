@@ -158,7 +158,7 @@
 </head>
 <body>
 
-    <h1>Evolución del Mapa Internacional</h1>
+    <h1>Mapa Histórico Interactivo de las Relaciones Internacionales</h1>
     <p class="intro">Realizado por Leison Chia Y Camila Reyes.</p>
     <p class="intro">Sigue los números en el mapa para explorar cronológicamente cómo la historia ha redibujado las fronteras.</p>
 
